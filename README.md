@@ -10,7 +10,8 @@ Uses this database to train: https://www.kaggle.com/andrewmvd/face-mask-detectio
 
 
 Python Packages Needed:
-opendatasets
 
 
+`keras=2.3.1 tensorflow=1.15.0 tensorflow-gpu=1.15.0 jupyter`
+`pip install opencv-python==4.1.2.30 imageai==2.1.5`
 `pip install opendatasets`
